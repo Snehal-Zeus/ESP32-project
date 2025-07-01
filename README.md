@@ -1,5 +1,5 @@
 # ESP32-project
-##Iot based disaster management with AI
+## Iot based disaster management with AI
 
 ### Objective
 The main goal of this project was to build a smart system that can detect disasters like earthquakes, fires, floods, and gas leaks using sensors and Artificial Intelligence (AI). The idea was to use IoT (Internet of Things) technology to collect data from the environment and then use an AI model to understand and identify if a disaster is happening. The system should give quick alerts so that people can take action on time. The project also aimed to create a system that is affordable, accurate, and can be used in both cities and villages to help improve safety.
